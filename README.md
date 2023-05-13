@@ -14,7 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 ## Table Screen Shot
-![Web capture_13-5-2023_114740_localhost](https://github.com/jitu1212/Manufac_SDE/assets/98046486/0967c787-3c5b-4a87-96c8-07eb50ae5286)
+
+![Web capture_13-5-2023_114740_localhost](https://github.com/jitu1212/Manufac_SDE/assets/98046486/6edcd008-16db-47a7-8e83-c8253ba1a760)
 
 
 
